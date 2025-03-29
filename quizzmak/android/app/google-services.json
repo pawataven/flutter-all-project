@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181565865560",
+    "project_id": "quizzmakdatabase",
+    "storage_bucket": "quizzmakdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181565865560:android:c64cb03af1120f567e542d",
+        "android_client_info": {
+          "package_name": "com.example.quizzmak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0L1l_ZDGVdbfnPwRLwe8IwDZlXfYoKCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
