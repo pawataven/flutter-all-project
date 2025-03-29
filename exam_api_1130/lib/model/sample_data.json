@@ -1,0 +1,122 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Anton",
+                "last": "Møller"
+            },
+            "location": {
+                "street": {
+                    "number": 1513,
+                    "name": "Rypevej"
+                },
+                "city": "Snertinge",
+                "state": "Danmark",
+                "country": "Denmark",
+                "postcode": 11545,
+                "coordinates": {
+                    "latitude": "-43.5976",
+                    "longitude": "-163.4965"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico City"
+                }
+            },
+            "email": "anton.moller@example.com",
+            "login": {
+                "uuid": "1932ac10-d5d5-4e8d-9850-a43314f74ee2",
+                "username": "greenbear664",
+                "password": "keith",
+                "salt": "2w2u4IYt",
+                "md5": "88429eac9fe0622d3a97b2b9a64c5412",
+                "sha1": "d6fd57b43b6297d2c0118507c8b3788d512d22cf",
+                "sha256": "1dcaf7c9990b70614db7698b14d9bd21f37c2ffe100bcfc5a2eeabe8df6224a5"
+            },
+            "dob": {
+                "date": "1961-07-16T09:54:37.830Z",
+                "age": 63
+            },
+            "registered": {
+                "date": "2006-11-22T16:46:07.593Z",
+                "age": 18
+            },
+            "phone": "02942991",
+            "cell": "93094312",
+            "id": {
+                "name": "CPR",
+                "value": "160761-3773"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/24.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+            },
+            "nat": "DK"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Gabi",
+                "last": "Van Zaanen"
+            },
+            "location": {
+                "street": {
+                    "number": 341,
+                    "name": "Erikaweg"
+                },
+                "city": "Klein Ulsda",
+                "state": "Noord-Holland",
+                "country": "Netherlands",
+                "postcode": "2514 HC",
+                "coordinates": {
+                    "latitude": "85.7674",
+                    "longitude": "-39.0094"
+                },
+                "timezone": {
+                    "offset": "-2:00",
+                    "description": "Mid-Atlantic"
+                }
+            },
+            "email": "gabi.vanzaanen@example.com",
+            "login": {
+                "uuid": "0e64145b-b5bd-45e3-a086-a541c940e400",
+                "username": "angrygorilla361",
+                "password": "5wr2i7h8",
+                "salt": "sdXMsc3q",
+                "md5": "4fe8b5f2fde2f878545aefaf8c058f58",
+                "sha1": "dbbc90231de7ee0f74c6e2f1440961d5bca8248f",
+                "sha256": "dab8821e4aa006bac14187ebe256aa3fbd4dda0c326f9ac80b69353975fc2e0f"
+            },
+            "dob": {
+                "date": "1983-08-14T16:38:14.848Z",
+                "age": 41
+            },
+            "registered": {
+                "date": "2020-04-12T23:44:48.529Z",
+                "age": 4
+            },
+            "phone": "(0271) 504346",
+            "cell": "(06) 51075829",
+            "id": {
+                "name": "BSN",
+                "value": "89903538"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/1.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+            },
+            "nat": "NL"
+        }
+    ],
+    "info": {
+        "seed": "7c028b75bc77c0a0",
+        "results": 2,
+        "page": 1,
+        "version": "1.4"
+    }
+}
